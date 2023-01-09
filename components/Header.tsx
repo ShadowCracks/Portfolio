@@ -30,7 +30,7 @@ export default function Header({}: Props) {
                     bgColor="transparent"
                 />
                 <SocialIcon 
-                    url="https://facebook.com/user/ejarkerm" 
+                    url="https://github.com/ShadowCracks" 
                     fgColor="gray"
                     bgColor="transparent"
                 />
@@ -43,7 +43,7 @@ export default function Header({}: Props) {
             </motion.div>
 
 
-            <Link href="#contact">
+            <div>
                 <motion.div
                 initial={{
                     x: 500,
@@ -67,7 +67,7 @@ export default function Header({}: Props) {
                             Get in Touch
                         </p>
                 </motion.div>
-            </Link>
+            </div>
     </header>
   );
     
