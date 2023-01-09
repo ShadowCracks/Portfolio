@@ -14,7 +14,7 @@ const Home: NextPage = () => {
     <div className="bg-gray-900 text-white h-screen snap-y snap-mandatory overflow-y-scroll 
     overflow-x-hidden z-0 scrollbar scrollbar-track-gray-400 scrollbar-thumb-yellow-600/80">
       <Head>
-        <title>Amara's Portfolio</title>
+        <title>Amara Portfolio</title>
       </Head>
 
       <Header />
