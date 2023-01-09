@@ -32,9 +32,9 @@ function ExperienceCard3({}: Props) {
                 <p className='uppercase py-5 text-gray-300'> September 2021 - June2022...</p>
 
                 <ul className='list-disc space-y-4 ml-5 text-lg '>
-                    <li>Electricaly engineered hand with pressure pressure sensors</li>
+                    <li>Electricaly engineered hand</li>
                     <li>Arduino writen program</li>
-                    <li>Electrical systems built and centralized on Arduino mini</li>
+                    <li>Close/Open motion Pressure Sensor</li>
 
 
                 </ul>
