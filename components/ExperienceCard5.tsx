@@ -37,9 +37,7 @@ function ExperienceCard5({}: Props) {
 
                     <img className="h-10 w-10 rounded-full" 
                     src="https://i.imgur.com/UaLEC4A.png" alt="" />
-                    {/*Tech used*/}
-                    {/*Tech used*/}
-                    {/*Tech used*/}
+
                 </div>
                 <p className='uppercase py-5 text-gray-300'>Started June 2022 -September</p>
 
