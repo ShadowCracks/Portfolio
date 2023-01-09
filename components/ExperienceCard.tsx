@@ -31,9 +31,6 @@ function ExperienceCard({}: Props) {
                     src="https://i.imgur.com/UaLEC4A.png" alt="" />
                     <img className="h-10 w-10 rounded-full" 
                     src="https://i.imgur.com/AbE5G5b.png" alt="" />
-                    {/*Tech used*/}
-                    {/*Tech used*/}
-                    {/*Tech used*/}
                 </div>
                 <p className='uppercase py-5 text-gray-300'>September 2021  January 2022</p>
 
