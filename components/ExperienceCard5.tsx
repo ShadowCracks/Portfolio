@@ -39,7 +39,7 @@ function ExperienceCard5({}: Props) {
                     src="https://i.imgur.com/UaLEC4A.png" alt="" />
 
                 </div>
-                <p className='uppercase py-5 text-gray-300'>Started June 2022 -September</p>
+                <p className='uppercase py-5 text-gray-300'>Started June 2022 -September 2022</p>
 
                 <ul className='list-disc space-y-4 ml-5 text-lg '>
                     <li>Network Maintenance</li>
