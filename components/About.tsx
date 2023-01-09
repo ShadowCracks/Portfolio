@@ -30,7 +30,7 @@ export default function About({}: Props) {
           <span className="underline decoration-yellow-600/50">little</span> background
         </h4>
         <p className="text-base">
-          My name is Amara and I'm a full stack developer with a passion for programming. Despite my efforts to explore other career paths, I have always found myself drawn back to the world of coding. I have several years of experience working with JavaScript latest technology, and I am proficient in utilizing frameworks such as Next.js to build feature-rich web applications. I am excited to bring you my exceptional skills into the scene to help you develop your business.
+          My name is Amara and Im a full stack developer with a passion for programming. Despite my efforts to explore other career paths, I have always found myself drawn back to the world of coding. I have several years of experience working with JavaScript latest technology, and I am proficient in utilizing frameworks such as Next.js to build feature-rich web applications. I am excited to bring you my exceptional skills into the scene to help you develop your business.
         </p>
       </div>
     </div>
