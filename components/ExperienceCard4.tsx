@@ -47,9 +47,9 @@ function ExperienceCard4({}: Props) {
                 <p className='uppercase py-5 text-gray-300'>Started January 2022 -in progress</p>
 
                 <ul className='list-disc space-y-4 ml-5 text-lg '>
-                    <li>platform that allows users to exchange their e wallet from one provider to another</li>
-                    <li>Developed in both react and native</li>
-                    <li>Will Require users to verify identity which helps to ensure security</li>
+                    <li>e-wallet exchanger App</li>
+                    <li>Developed in React Native</li>
+                    <li>Will Require users ID verification</li>
 
 
                 </ul>
