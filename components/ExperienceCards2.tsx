@@ -20,7 +20,7 @@ function ExperienceCard2({}: Props) {
             />
 
             <div className='px-0 md:px-10'>
-                <h4 className='text-4xl font-light'>NFT Solona Gated Web App</h4>
+                <h4 className='text-4xl font-light'>NFT Gated Web App</h4>
                 <p>Portfolio</p>
                 <div className='flex space-x-2 my-2'>
                     <img className="h-10 w-10 rounded-full" 
@@ -42,7 +42,7 @@ function ExperienceCard2({}: Props) {
                     {/*Tech used*/}
                     {/*Tech used*/}
                 </div>
-                <p className='uppercase py-5 text-gray-300'>Started November2022 -in progress</p>
+                <p className='uppercase py-5 text-gray-300'>Started November2022 -ongoing</p>
 
                 <ul className='list-disc space-y-4 ml-5 text-lg '>
                     <li>buy and sell NFT Platform</li>
