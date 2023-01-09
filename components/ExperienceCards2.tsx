@@ -45,7 +45,7 @@ function ExperienceCard2({}: Props) {
                 <p className='uppercase py-5 text-gray-300'>Started November2022 -in progress</p>
 
                 <ul className='list-disc space-y-4 ml-5 text-lg '>
-                    <li>platform that allows users to buy and sell non-fungible tokens (NFTs) using the Solona blockchain.</li>
+                    <li>platform that allows users to buy and sell non-fungible tokens</li>
                     <li>Members only access systems</li>
 
 
