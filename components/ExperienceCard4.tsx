@@ -49,7 +49,7 @@ function ExperienceCard4({}: Props) {
                 <ul className='list-disc space-y-4 ml-5 text-lg '>
                     <li>platform that allows users to exchange their e wallet from one provider to another</li>
                     <li>Developed in both react and native</li>
-                    <li>Will Require users to verify their identity and complete certain tasks before accessing the platform, which helps to ensure the security and authenticity of financial transactions</li>
+                    <li>Will Require users to verify identity which helps to ensure security</li>
 
 
                 </ul>
