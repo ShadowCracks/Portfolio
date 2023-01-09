@@ -5,9 +5,7 @@ type Props = {}
 
 function ExperienceCard({}: Props) {
   return (
-    <article className='flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-[500px] md:w-[600px] 
-    xl:w-[900px] snap-center bg-[#292929] p-10 hover:opacity-100 opacity-40
-    cursor-pointer transition-opacity duration-200 overflow-hidden'>
+    <article className='flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-500 md:w-600 xl:w-900 snap-center bg-gray-900 p-10 hover:opacity-100 opacity-40 cursor-pointer transition-opacity duration-200 overflow-hidden'>
         <motion.img
             initial={{
                 y: -100,
@@ -16,7 +14,7 @@ function ExperienceCard({}: Props) {
             transition={{duration: 1.2}}
             whileInView={{opacity: 1, y:0}}
             viewport={{once: true}}
-            className='w-32 h-32 rounded-full xl:w-[200] xl:h-[200px] object-cover  object-center'
+            className='w-32 h-32 rounded-full xl:w-200 xl:h-200 object-cover  object-center'
             src='https://i.imgur.com/WpDEyyq.png'
             alt=""
             />
@@ -35,7 +33,7 @@ function ExperienceCard({}: Props) {
                     {/*Tech used*/}
                     {/*Tech used*/}
                 </div>
-                <p className='uppercase py-5 text-gray-300'>STarted september 2021... -Ended January 2022...</p>
+                <p className='uppercase py-5 text-gray-300'>September 2021  January 2022</p>
 
                 <ul className='list-disc space-y-4 ml-5 text-lg '>
                     <li>self learning systems visually able to detect underwater species</li>
