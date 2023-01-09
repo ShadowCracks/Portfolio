@@ -11,7 +11,7 @@ import Link from 'next/link';
 
 const Home: NextPage = () => {
   return (
-    <div className="bg-gray-900 text-white h-screen snap-y snap-mandatory overflow-y-scroll 
+    <div className="bg-[rgb(36,36,36)] text-white h-screen snap-y snap-mandatory overflow-y-scroll 
     overflow-x-hidden z-0 scrollbar scrollbar-track-gray-400 scrollbar-thumb-yellow-600/80">
       <Head>
         <title>Amara Portfolio</title>
