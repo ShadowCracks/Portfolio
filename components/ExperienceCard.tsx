@@ -38,7 +38,7 @@ function ExperienceCard({}: Props) {
                 <p className='uppercase py-5 text-gray-300'>STarted september 2021... -Ended January 2022...</p>
 
                 <ul className='list-disc space-y-4 ml-5 text-lg '>
-                    <li>Build self learning systems visually able to detect underwater species</li>
+                    <li>self learning systems visually able to detect underwater species</li>
                     <li>Underwater drone maintenance</li>
                     <li>data collection and labeling for model training</li>
 
